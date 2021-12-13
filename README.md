@@ -4,7 +4,7 @@
 
 ## Wireframe 
 
-<!--  - <a href=https://miro.com/app/board/uXjVObTCsCQ=/>MiroBoard</a>
+MiroBoard (https://miro.com/app/board/uXjVObTCsCQ=/)
 
 <h3>Connect with Me!</h3> 
 <!--  - <a href="https://www.linkedin.com/in/samantha-brown-software-developer/">LinkedIn</a>
