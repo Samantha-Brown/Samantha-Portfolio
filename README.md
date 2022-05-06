@@ -1,5 +1,7 @@
 ## Samantha Brown's Personal Website/Playground
 
+### Design and send (email) your own digital postcard! 
+
 ## Deployed link 
 
 ## Wireframe 
